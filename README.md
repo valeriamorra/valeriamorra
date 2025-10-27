@@ -1,10 +1,14 @@
 Hey, I am Valeria 👋 <br/>
 
-I'm currently pursuing a Master's in Human-Centered Artificial Intelligence with a focus on User Experience and Human-Computer Interaction, and working as a student at the LEGO Group with the Developer Relation team. I'm also a dynamic event coordinator with proven experience in managing multi-location events—from planning to on-site execution—and skilled in tracking, budgeting, and communication in both technical and creative environments. <br/>
+I’m currently leading the operations and strategic development of the FCSP Institute of Advanced Study at AI4I – The Italian Institute of Artificial Intelligence, where we bring together top international researchers, lecturers, and innovators to shape the future of AI in Europe.
 
-I spend my days crafting interfaces for digital products and building bridges between the company and the developer community at LEGO. When I’m not working, I push the boundaries of what’s possible with everyday software, fuel my passion for responsible AI, and enjoy reading, cooking, and training. <br/>
+I’m passionate about designing meaningful human–AI interactions, fostering collaboration between research and industry, and creating spaces where technology and creativity meet. I am currently doing research on the intersection between cognitive science and AI. If you are doing similar work please reach out I'd love to chat!
+<a href="https://www.linkedin.com/in/valeria-morra-02684b16b" target="_blank">Connect on LinkedIn</a>
 
-I hope my work brings you a bit of inspiration 🍀
+
+Outside of work, you’ll find me experimenting with everyday software, reading, cooking, or training.
+
+I hope my work sparks a bit of curiosity and inspiration 🍀
 
 
 
